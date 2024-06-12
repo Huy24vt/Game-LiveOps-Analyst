@@ -1,4 +1,4 @@
-# Game-LiveOps-Analyst
+# Game-LiveOps-Analysis
 **CONTEXT**
 1. All users in Russia and using Android devices are playing the game with version 1.5.2.
 
